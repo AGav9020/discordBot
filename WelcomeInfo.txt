@@ -1,0 +1,5 @@
+Hello %%NAME%%!
+This is the instructions for the county bot
+Hello - Repeats this message
+Alert - 
+Send - Whatever
